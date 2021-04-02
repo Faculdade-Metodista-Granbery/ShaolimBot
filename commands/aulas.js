@@ -9,5 +9,5 @@ exports.run = async (client, message, args) => {
   if (!tema) return false;
   const response = await getAula({ tema })
   const rand = Math.floor(Math.random() * (grettings.length));
-  message.channel.send(`${grettings[rand]} ${response.val()}`);
+  message.channel.send(`${grettings[rand]}\n${response.val()}`);
 };
