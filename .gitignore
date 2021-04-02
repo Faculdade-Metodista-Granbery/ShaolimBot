@@ -1,0 +1,4 @@
+.env
+node_modules
+firebase.credentials.json
+dialogflow.credentials.json

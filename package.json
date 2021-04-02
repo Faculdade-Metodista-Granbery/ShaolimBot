@@ -9,8 +9,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.1"
+    "dialogflow": "^1.2.0",
+    "discord.js": "^12.5.1",
+    "dotenv": "8.2.0",
+    "firebase": "^8.3.2",
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "ntl": "5.1.0",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-prettier": "^3.1.4"
+  },
   "description": ""
 }
