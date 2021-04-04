@@ -19,3 +19,11 @@ O nome do bot foi inspirado no meme professor que recebeu atividades assinados c
 ### Arquitetura
 
 ![architecture](https://github.com/Faculdade-Metodista-Granbery/ShaolimBot/blob/master/docs/shaolin.png)
+
+### Prints
+
+
+  <img width="60%" height="60%" src="https://github.com/Faculdade-Metodista-Granbery/ShaolimBot/blob/master/docs/Screen%20Shot%202021-04-04%20at%2010.47.59.png?raw=true">
+  <img width="60%" height="60%" src="https://github.com/Faculdade-Metodista-Granbery/ShaolimBot/blob/master/docs/Screen%20Shot%202021-04-04%20at%2010.48.20.png?raw=true">
+
+
